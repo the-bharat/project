@@ -1,0 +1,28 @@
+.RestoStyle {
+  max-width: auto;
+  margin: 10px auto;
+  padding: 10px 20px;
+  border-radius: 8px;
+  background: rgb(204, 207, 163);
+  min-height: auto;
+  font-size: medium;
+}
+.logsign {
+  max-width: 600px;
+  margin: 10px auto;
+  padding: 10px 20px;
+  border-radius: 8px;
+  background: rgb(204, 207, 163);
+  min-height: auto;
+  font-size: medium;
+}
+.RestoStyle1 {
+  max-width: 700px;
+  margin: 10px auto;
+  padding: 10px 20px;
+  border-radius: 8px;
+  background: rgb(204, 207, 163);
+  min-height: auto;
+  font-size: medium;
+  align-items: center;
+}
